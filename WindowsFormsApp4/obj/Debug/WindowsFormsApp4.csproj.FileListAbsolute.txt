@@ -1,0 +1,15 @@
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Oguz\Desktop\c# projects\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.ResolveComReference.cache
